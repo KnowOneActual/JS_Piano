@@ -18,4 +18,4 @@ The piano keyboard is constructed using standard HTML elements. The core functio
 
 ## Acknowledgements
 
-This project was amke with the help of a tutorial available on YouTube: [YouTube Tutorial](https://www.youtube.com/watch?v=mjmh093Sucg)
+This project was made with the help of a tutorial available on YouTube: [YouTube Tutorial](https://www.youtube.com/watch?v=mjmh093Sucg)
